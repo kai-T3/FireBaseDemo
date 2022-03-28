@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597536248904",
+    "firebase_url": "https://madassignment-c7459-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "madassignment-c7459",
+    "storage_bucket": "madassignment-c7459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597536248904:android:289af152a15cc5db02f47d",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597536248904-mudqof6u45jdgie4tafnbd0lq2hki9be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYjcEw9caNu-vL1cPKr_cnog0z7Lj22jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597536248904-mudqof6u45jdgie4tafnbd0lq2hki9be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
